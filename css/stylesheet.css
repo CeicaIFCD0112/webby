@@ -3,6 +3,7 @@ body {
     font-family: 'Open Sans', sans-serif; /* Utiliza la fuente Open Sans */
     font-size: medium; /* Tamaño de fuente medio */
     color: chocolate; /* Opcion de Color de la Letra */
+    background-color: snow; /* Opcion de Color para el fondo de la web */
 }
 
 .container {
